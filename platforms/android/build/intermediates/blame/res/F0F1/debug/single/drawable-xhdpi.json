@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Nativescript Projects\\rupagis\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\logo0.png",
+        "source": "D:\\Nativescript Projects\\rupagis\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo0.png"
+    },
+    {
+        "merged": "D:\\Nativescript Projects\\rupagis\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\icon.png",
+        "source": "D:\\Nativescript Projects\\rupagis\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Nativescript Projects\\rupagis\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\background.png",
+        "source": "D:\\Nativescript Projects\\rupagis\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\Nativescript Projects\\rupagis\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\Nativescript Projects\\rupagis\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    }
+]
